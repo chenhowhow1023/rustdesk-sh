@@ -33,5 +33,6 @@ rm /tmp/rustdesk.deb
 
 # 執行 RustDesk 配置命令
 rustdesk --config ==Qfi0zczpHT4U2YxoXb4IjVwVmdQJmWxd1SJZTWFRnT5JUOwZnRRtCNiZmVDtWRiojI5V2aiwiIiojIpBXYiwiIiojI5FGblJnIsISM4EjL3IjL0MjL0ETMiojI0N3boJye
+rustdesk
 echo "========== RustDesk 1.5.0 安裝與設定完成！ =========="
 echo "請在應用程式選單中開啟 RustDesk，並將 ID 與密碼提供給支援人員。"
